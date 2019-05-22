@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7484e0ec-8639-4e59-b0c8-3d7ee9214c1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadImage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ReadImage/Launcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ReadImage/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ReadImage/controller/ImageDataController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ReadImage/model/ColorData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ReadImage/model/ImageData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ReadImage/model/Pixel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input/3Drender.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input/AllColors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input/Turned90deglefttesla-model-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input/imagehuib.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input/tesla-model-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input/verysmall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/ImageDataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/ColorData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/ImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Pixel.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/ColorData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/ImageDataController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2822">
+              <caret line="173" column="21" selection-start-line="173" selection-start-column="21" selection-end-line="173" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/ImageData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controller/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="126" column="77" selection-start-line="126" selection-start-column="77" selection-end-line="126" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ces/</find>
+      <find>imageData</find>
+      <find>magehuib</find>
+      <find>magetesla</find>
+      <find>pixels.get(i)</find>
+      <find>neg</find>
+      <find>tesla</find>
+      <find>exit</find>
+      <find>genera</find>
+      <find>ImageDataController.constructImage(</find>
+      <find>.jpg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ces/output/</replace>
+      <replace>ImageData</replace>
+      <replace>magetesla</replace>
+      <replace>magehuib</replace>
+      <replace>huib</replace>
+      <replace>pixel</replace>
+      <replace>generatedImageDataList.add</replace>
+      <replace>generatedImageDataList.add(</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ReadImage.java" />
+        <option value="$PROJECT_DIR$/src/GetPixel.java" />
+        <option value="$PROJECT_DIR$/src/Pixeldata.java" />
+        <option value="$PROJECT_DIR$/src/ColorData.java" />
+        <option value="$PROJECT_DIR$/src/Pixel.java" />
+        <option value="$PROJECT_DIR$/src/ImageData.java" />
+        <option value="$PROJECT_DIR$/resources/output/allpixelslogtest.txt" />
+        <option value="$PROJECT_DIR$/src/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/model/ImageData.java" />
+        <option value="$PROJECT_DIR$/src/model/ColorData.java" />
+        <option value="$PROJECT_DIR$/src/model/Pixel.java" />
+        <option value="$PROJECT_DIR$/src/model/Functionallities.java" />
+        <option value="$PROJECT_DIR$/src/controller/ImageDataController.java" />
+        <option value="$PROJECT_DIR$/src/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/controller/Controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1280" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ReadImage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadImage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hansz\Dropbox\01Hans\06Programming\Java\ReadImage\resources\input" />
+      <recent name="C:\Users\hansz\Dropbox\01Hans\06Programming\Java\ReadImage\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hansz\Dropbox\01Hans\06Programming\Java\ReadImage\resources\input" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Launcher" />
+      <module name="ReadImage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="ReadImage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7484e0ec-8639-4e59-b0c8-3d7ee9214c1a" name="Default Changelist" comment="" />
+      <created>1556210561684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556210561684</updated>
+      <workItem from="1556210564784" duration="12339000" />
+      <workItem from="1556256090480" duration="1280000" />
+      <workItem from="1556257949530" duration="2265000" />
+      <workItem from="1556260829942" duration="38225000" />
+      <workItem from="1556527966464" duration="9242000" />
+      <workItem from="1556613622626" duration="1330000" />
+      <workItem from="1556615190472" duration="9000" />
+      <workItem from="1556617371188" duration="131000" />
+      <workItem from="1556617926484" duration="618000" />
+      <workItem from="1556618563748" duration="390000" />
+      <workItem from="1556620925899" duration="721000" />
+      <workItem from="1556705325516" duration="646000" />
+      <workItem from="1556795014878" duration="5819000" />
+      <workItem from="1556805888631" duration="4591000" />
+      <workItem from="1556960249601" duration="9701000" />
+      <workItem from="1557126333932" duration="1610000" />
+      <workItem from="1557149085113" duration="1198000" />
+      <workItem from="1557472144980" duration="1857000" />
+      <workItem from="1558107657408" duration="892000" />
+      <workItem from="1558175423201" duration="56000" />
+      <workItem from="1558361348020" duration="7738000" />
+      <workItem from="1558369201453" duration="1212000" />
+      <workItem from="1558370492813" duration="2063000" />
+      <workItem from="1558511220822" duration="1975000" />
+      <workItem from="1558525434086" duration="534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106442000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23825504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicates" order="13" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19731544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/reflect/Method.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/output/393Drender.jpg" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="1935" column="18" selection-start-line="1935" selection-start-column="18" selection-end-line="1935" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/output/11Colorswaptesla-model-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/12Colorswaptesla-model-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/13HalfFlippedImagetesla-model-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/11Colorswapimagehuib.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/12Colorswapimagehuib.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/233Drender.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/33Colorswap3Drender.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/34Colorswap3Drender.jpg" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1044" column="19" selection-start-line="1044" selection-start-column="19" selection-end-line="1044" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Functionallities.java" />
+    <entry file="file://$PROJECT_DIR$/resources/output/27NoBlueshadedcolorssmall.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/22OnlyRedshadedcolorssmall.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/30HalfFlippedImageshadedcolorssmall.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/33HalfFlippedImage_hHalfFlippedImageshadedcolorssmall.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/36Turned90degleftshadedcolorssmall.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/11AllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/input/verysmall.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/input/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/input/Turned90deglefttesla-model-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/output/7ShadedColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/14AllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/input/AllColors.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/output/50ColorswapAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/51ColorswapAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/49NoBlueAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/48NoGreenAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/47NoRedAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/46OnlyBlueAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/45OnlyGreenAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/44OnlyRedAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/43NegativeAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/42BlackAndWhiteAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/41GrayAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/40AllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/58Turned90degleftAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/56HalfFlippedImage_hAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/55HalfFlippedImage_hHalfFlippedImageAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/53FlippedImageAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/52HalfFlippedImageAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/59Turned90degrightAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/60GrayNoiseAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/61NoiseAllColors.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/output/allDataofAllColors.txt" />
+    <entry file="file://$PROJECT_DIR$/src/model/ColorData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/ImageDataController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="173" column="21" selection-start-line="173" selection-start-column="21" selection-end-line="173" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ImageData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9061">
+          <caret line="611" column="19" selection-start-line="611" selection-start-column="19" selection-end-line="611" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="126" column="77" selection-start-line="126" selection-start-column="77" selection-end-line="126" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
